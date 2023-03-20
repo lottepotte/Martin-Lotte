@@ -224,7 +224,7 @@ p {
     font-family: 'Fahkwang', sans-serif;
     font-weight: 200;
     font-style: normal;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     color: #436700;
 }
 
@@ -238,7 +238,7 @@ p a{
     font-family: 'Fahkwang', sans-serif;
     font-weight: 200;
     font-style: normal;
-    letter-spacing: 2px;
+    letter-spacing: px;
     color: #436700;
 }
 
@@ -277,7 +277,7 @@ letter-spacing: 3px;
 table {
     display: inline-block;
     margin-left:30px;
-    margin-top: ;
+    margin-top: 10;
 }
 
 tr {
