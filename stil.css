@@ -167,7 +167,6 @@ body {
     }
 
 h2 {
-    margin-left:30px;
     display: block;
     text-align: center;
     text-decoration: none;
@@ -183,7 +182,6 @@ h2 {
 
 h3 {
     text-align: left;
-    margin-left:30px;
     display: block;
     text-decoration: none;
     margin-top: 30px;
@@ -198,7 +196,6 @@ h3 {
 
 .praktisk ul {
     text-align: left;
-    margin-left:30px;
     display: inline-block;
     position: ;
     width:;
@@ -214,7 +211,6 @@ h3 {
 
 p {
     text-align: left;
-    margin-left:30px;
     display: block;
     text-decoration: none;
     margin-top: 10px;
@@ -253,14 +249,12 @@ letter-spacing: 3px;
 .sted {
     text-align: left;
     display: inline-block;
-    margin-left:;
     margin-top: 60px;
     vertical-align: top;
 }
 
 .champagne {
     display: inline-block;
-    margin-left:;
     margin-top: px;
     padding-right: 20px;
     text-align: center;
@@ -269,14 +263,12 @@ letter-spacing: 3px;
 .tidsplan {
     text-align: left;
     display: inline-block;
-    margin-left:;
     margin-top: 60px;
     vertical-align: top;
 }
 
 table {
     display: inline-block;
-    margin-left:30px;
     margin-top: 10px;
 }
 
@@ -406,8 +398,6 @@ td {
 .ønskelistetekst p{
     display: inline-block;
     vertical-align: top;
-    margin-left: px;
-    margin-top: px;
     text-align:center;
 }
 
