@@ -167,6 +167,7 @@ body {
     }
 
 h2 {
+    margin-left:;
     display: block;
     text-align: center;
     text-decoration: none;
@@ -182,6 +183,7 @@ h2 {
 
 h3 {
     text-align: left;
+    margin-left:;
     display: block;
     text-decoration: none;
     margin-top: 30px;
@@ -196,6 +198,7 @@ h3 {
 
 .praktisk ul {
     text-align: left;
+    margin-left:;
     display: inline-block;
     position: ;
     width:;
@@ -211,6 +214,7 @@ h3 {
 
 p {
     text-align: left;
+    margin-left:;
     display: block;
     text-decoration: none;
     margin-top: 10px;
@@ -249,12 +253,14 @@ letter-spacing: 3px;
 .sted {
     text-align: left;
     display: inline-block;
+    margin-left:;
     margin-top: 60px;
     vertical-align: top;
 }
 
 .champagne {
     display: inline-block;
+    margin-left:;
     margin-top: px;
     padding-right: 20px;
     text-align: center;
@@ -263,14 +269,18 @@ letter-spacing: 3px;
 .tidsplan {
     text-align: left;
     display: inline-block;
+    margin-left:;
     margin-top: 60px;
     vertical-align: top;
 }
 
 table {
     display: inline-block;
+    margin-left:;
     margin-top: 10px;
-}
+    
+    }
+
 
 tr {
     margin-left:30px;
@@ -295,28 +305,57 @@ td {
 }
 
 
-.dressogtaler  {
+.antrekk  {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
+    padding-top: 40px;
     text-align: center;
     width: 100%;
 }
-.dressogtaler h3 {
+.antrekk h3 {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: ;
     text-align: center;
 }
 
-.dressogtaler h3 {
+.antrekk h3 {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: ;
     text-align: center;
 }
 
-.dressogtaler p {
+.antrekk p {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: ;
+    text-align: center;
+}
+
+.taler  {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    text-align: center;
+    width: 100%;
+}
+
+.taler h3 {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: ;
+    text-align: center;
+}
+
+.taler h3 {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: ;
+    text-align: center;
+}
+
+.taler p {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: ;
@@ -350,10 +389,9 @@ td {
 .RSVP p {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
-    text-align: center;
     padding-left:15px;
     padding-right: 15px;
+    text-align: center;
 }
 
 
@@ -364,6 +402,7 @@ td {
     text-align: center;
     margin-top: 10px;
     text-decoration-line: underline;
+    
 }
 
 .RSVP img {
@@ -398,6 +437,8 @@ td {
 .ønskelistetekst p{
     display: inline-block;
     vertical-align: top;
+    margin-left: px;
+    margin-top: px;
     text-align:center;
 }
 
