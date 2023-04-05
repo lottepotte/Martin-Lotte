@@ -48,7 +48,6 @@ body {
 .dropdown-content a {
     color: #436700;
     padding-top: 7px;
-    padding-bottom: ;
     text-decoration: none;
     display: block;
     font-size: 16px;
@@ -88,7 +87,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    max-height: ; 
     z-index: -1;
 }
 
@@ -117,8 +115,6 @@ body {
 .nav h2 {
     text-align: center;
     display: inline-block;
-    position: ;
-    width:;
     height:100%;
     font-size: 16px;
     font-family: 'Fahkwang', sans-serif;
@@ -151,7 +147,6 @@ body {
     width: 100%;
     max-width: 45px;
     padding-top: 20px;
-    padding-bottom: ;
     text-align: center;
 
 }
@@ -164,13 +159,11 @@ body {
     padding-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align:center;
     
     }
 
 h2 {
-    margin-left:;
     display: block;
     text-align: center;
     text-decoration: none;
@@ -186,7 +179,6 @@ h2 {
 
 h3 {
     text-align: left;
-    margin-left:;
     display: block;
     text-decoration: none;
     margin-top: 30px;
@@ -201,10 +193,7 @@ h3 {
 
 .praktisk ul {
     text-align: left;
-    margin-left:;
     display: inline-block;
-    position: ;
-    width:;
     height:100%;
     list-style-type: none;
     font-size:14px;
@@ -236,7 +225,6 @@ p a{
     
     display: block;
     text-decoration: none;
-    padding: ;
     list-style-type: none;
     font-size:14px;
     font-family: 'Fahkwang', sans-serif;
@@ -256,15 +244,12 @@ letter-spacing: 3px;
 .sted {
     text-align: left;
     display: inline-block;
-    margin-left:;
     margin-top: 60px;
     vertical-align: top;
 }
 
 .champagne {
     display: inline-block;
-    margin-left:;
-    margin-top: px;
     padding-right: 20px;
     text-align: center;
 }
@@ -272,14 +257,12 @@ letter-spacing: 3px;
 .tidsplan {
     text-align: left;
     display: inline-block;
-    margin-left:;
     margin-top: 60px;
     vertical-align: top;
 }
 
 table {
     display: inline-block;
-    margin-left:;
     margin-top: 10px;
     
     }
@@ -318,21 +301,18 @@ td {
 .antrekk h3 {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
 }
 
 .antrekk h3 {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
 }
 
 .antrekk p {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
 }
 
@@ -347,28 +327,24 @@ td {
 .taler h3 {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
 }
 
 .taler h3 {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
 }
 
 .taler p {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
 }
 
 .startRSVP p {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
     color: #FAFAF3;
 }
@@ -401,7 +377,6 @@ td {
 .RSVP h3 {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
     margin-top: 10px;
     text-decoration-line: underline;
@@ -420,7 +395,7 @@ td {
     margin-right: auto;
     padding-bottom: ;
     text-align: center;
-    padding-top: 50px;
+    padding-top: ;
     padding-bottom: 200px;
 }
 
@@ -438,7 +413,7 @@ td {
 }
 
 .ønskelistetekst p{
-    display: inline-block;
+    display: block;
     vertical-align: top;
     margin-left: px;
     margin-top: px;
@@ -446,7 +421,7 @@ td {
 }
 
 .ønskelistetekst h3 {
-    display: inline-block;
+display: block;
  text-align: center;
 }
 
