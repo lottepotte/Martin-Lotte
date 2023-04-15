@@ -428,11 +428,14 @@ td {
     margin-top: 300px;
 }
 
-.ønskeliste {
+.hilsen {
+    display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    padding-bottom: 200px;
+    margin-top: 300px;
+    width: 70%;
+    max-width: 375px;
 }
 
 .kake {
