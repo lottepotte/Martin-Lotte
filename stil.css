@@ -48,6 +48,7 @@ body {
 .dropdown-content a {
     color: #436700;
     padding-top: 7px;
+    padding-bottom: ;
     text-decoration: none;
     display: block;
     font-size: 16px;
@@ -83,10 +84,11 @@ body {
     text-align: center;
     display: block;
     margin-top: 6vh;
-   padding-bottom: 10px;
+   padding-bottom: 15px;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    max-height: ; 
     z-index: -1;
 }
 
@@ -159,7 +161,7 @@ body {
     padding-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
-    text-align:center;
+    text-align: center;
     
     }
 
@@ -193,6 +195,7 @@ h3 {
 
 .praktisk ul {
     text-align: left;
+    margin-left:;
     display: inline-block;
     height:100%;
     list-style-type: none;
@@ -206,7 +209,6 @@ h3 {
 
 p {
     text-align: left;
-    margin-left:;
     display: block;
     text-decoration: none;
     margin-top: 10px;
@@ -217,7 +219,7 @@ p {
     font-weight: 300;
     font-style: normal;
     letter-spacing: 1.5px;
-    line-height: 20px;
+    line-height: 25px;
     color: #436700;
 }
 
@@ -264,7 +266,6 @@ letter-spacing: 3px;
 table {
     display: inline-block;
     margin-top: 10px;
-    
     }
 
 
@@ -293,10 +294,8 @@ td {
 .bar p {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
     }
-
 
 
 .antrekk  {
@@ -319,6 +318,28 @@ td {
 }
 
 .antrekk p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.antrekk h5 {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    text-align: center;
+    font-size:14px;
+    font-family: 'Fahkwang', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 1.5px;
+    line-height: 25px;
+    color: #436700;
+    background-color: #ecddec;
+}
+
+.antrekk td {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -350,6 +371,7 @@ td {
     text-align: center;
 }
 
+
 .startRSVP p {
     margin-left: auto;
     margin-right: auto;
@@ -360,7 +382,7 @@ td {
 .RSVP {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 150px;
+    margin-top: 160px;
     margin-bottom: 150px;
     text-align: center;
     border-style: dotted;
@@ -398,34 +420,46 @@ td {
     margin-top: 30px;
 }
 
+.hilsen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 300px;
+}
+
 .ønskeliste {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
-    padding-top: ;
     padding-bottom: 200px;
 }
 
 .kake {
     display: block;
     margin-top: 50px;
+    margin-bottom: 75px;
 }
 
 .ønskeliste  {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: ;
     text-align: center;
     width: 100%;
 }
 
 .ønskelistetekst p{
-    display: block;
+    display: inline-block;
     vertical-align: top;
-    margin-left: px;
-    margin-top: px;
     text-align:center;
+}
+
+.ønskelistetekst p a{
+    display: inline-block;
+    vertical-align: top;
+    text-align:center;
+    text-decoration: underline;
+    
 }
 
 .ønskelistetekst h3 {
